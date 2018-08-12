@@ -1,0 +1,1 @@
+include ':app', ':rxbindingappcompat-v7', ':rxbindingdesign', ':rxbindingsupport-v4'
